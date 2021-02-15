@@ -1,0 +1,7 @@
+{
+  "name": "riverside",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
