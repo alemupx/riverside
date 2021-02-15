@@ -16,7 +16,7 @@ p {
 
 .texto2 {
     font-family: coolvetica;
-    color: white;
+    color: black;
     text-align: center;
     position: absolute;
     font-size: 20px;
@@ -29,12 +29,27 @@ p {
     justify-content: center;
 }
 
+.texto4 {
+    font-family: coolvetica;
+    color: white;
+    text-align: center;
+    position: absolute;
+    font-size: 36px;
+    left: 0;
+    right: 0;
+    top: 35%;
+}
+
 .elemento {
     cursor: pointer;
 }
 
 .elemento:hover {
-    opacity: 30%;
+    opacity: 20%;
+}
+
+.img {
+    opacity: 0.8;
 }
 
 .copyright {
