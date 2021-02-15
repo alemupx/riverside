@@ -7,6 +7,14 @@ import { Component } from '@angular/core';
 })
 export class HomePage {
 
-  constructor() {}
+  logo = {
+    url: "../../assets/logo.png"
+  };
+
+  pics = {
+    pic1: { url: "../../assets/pics/pic1.jpg" },
+  };
+
+  constructor() { }
 
 }
